@@ -1,7 +1,8 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=slice&height=150&text=Hello&fontSize=50&rotate=10&fontAlign=90&fontAlignY=20&fontColor=FFFF&&color=0:F1F0AE,800:E9407A&desc=I'm%20Yaena&descSize=25&descAlign=90&descAlignY=40)<br>
-  
+
+## Baekjoon ✏
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaena99)](https://solved.ac/yaena99/)
 
 ## Skills😊
@@ -16,6 +17,6 @@
 ![badges](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)<br/>
 
 
-
+## Github 😋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaena1223&show_icons=true&theme=radical)
 </div>
