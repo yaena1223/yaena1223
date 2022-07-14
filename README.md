@@ -6,7 +6,7 @@
 ![badges](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![badges](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![badges](https://img.shields.io/badge/Python-3776AB1?style=for-the-badge&logo=Python&logoColor=white)
-![badges](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![badges](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)<br/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaena99)](https://solved.ac/yaena99)<br/>
