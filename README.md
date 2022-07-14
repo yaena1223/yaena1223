@@ -9,6 +9,6 @@
 ![badges](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaena99)](https://solved.ac/yaena99)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaena99)](https://solved.ac/yaena99)<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaena1223&show_icons=true&theme=radical)
