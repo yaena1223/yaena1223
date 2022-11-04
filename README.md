@@ -17,7 +17,7 @@
 ![badges](https://img.shields.io/badge/MySQL-B762B0?style=for-the-badge&logo=MySQL&logoColor=white)
 ![badges](https://img.shields.io/badge/Python-F47A9E?style=for-the-badge&logo=Python&logoColor=white)
 ![badges](https://img.shields.io/badge/Java-FF9860?style=for-the-badge&logo=Java)<br/>
-![badges](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino)<br/>
+![badges](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br/>
 
 ## Github 😋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaena1223&show_icons=true&theme=radical)
